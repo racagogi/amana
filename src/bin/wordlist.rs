@@ -204,7 +204,7 @@ fn cli() -> Command {
                 .long("dubeol")
                 .action(clap::ArgAction::SetTrue)
                 .default_value("false")
-                .help("use dubeolic cyper ㄱ-> r"),
+                .help("use dubeolic encryption ㄱ-> r"),
         )
 }
 

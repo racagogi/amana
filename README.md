@@ -16,7 +16,7 @@ Options:
   -m, --min <min>        Min length of a word [default: 1]
   -M, --max <max>        Max length of a word [default: 20]
   -u                     Remove uppercase jamo ㅃ,ㅉ,ㄸ,ㄲ,ㅆ,ㅒ,ㅖ
-      --dubeol           use dubeolic cyper ㄱ-> r
+      --dubeol           use dubeolic encryption ㄱ-> r
   -h, --help             Print help
 ```
 ### usage
